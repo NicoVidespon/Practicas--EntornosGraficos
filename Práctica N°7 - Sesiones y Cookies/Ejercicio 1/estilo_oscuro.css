@@ -1,0 +1,17 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #66ccff;
+}
+
+select,
+button {
+    padding: 8px;
+    font-size: 16px;
+}
